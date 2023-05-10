@@ -7,8 +7,8 @@
 ![](https://komarev.com/ghpvc/?username=gechengjie-pacvue&color=orange)
 
 ## 🐱 My GitHub Stats
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=gechengjie-pacvue&show_icons=true&theme=dracula)](https://github.com/pulls?q=author%3Ameglody)
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=gechengjie-pacvue&count_private=true&show_icons=true&theme=onedark)](https://github.com/pulls?q=author%3Ameglody)
 ## 💬 Recently Used
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gechengjie-pacvue&hide=scss)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gechengjie-pacvue&hide=scss&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ## 🧮 Leetcode
 [![LeetCode stats](https://stats.justsong.cn/api/leetcode?username=meglody-z&cn=true)](https://leetcode-cn.com/u/meglody-z/)
